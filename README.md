@@ -1,3 +1,3 @@
-# Sber_Test
+# s_tst
 
-Формулировка задания - в файле Task/SberbankTestCase_fibonacci.docx
+Р¤РѕСЂРјСѓР»РёСЂРѕРІРєР° Р·Р°РґР°РЅРёСЏ - РІ С„Р°Р№Р»Рµ Task/SberbankTestCase_fibonacci.docx
